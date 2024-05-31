@@ -31,4 +31,4 @@ Like to contribute?
 
 Contact: tempelmann+utiscc@gmail.com
 
-Or submit a change to this page through github
+Or submit a change to this page through [github](https://github.com/utiscc/utiscc.github.io)
