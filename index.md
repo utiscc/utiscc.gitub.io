@@ -13,8 +13,8 @@ If you're a developer and like to register a shared UTI, please contact us via t
 
 ## Further resources on using UTIs
 
-- [Uniform Type Identifiers](https://developer.apple.com/documentation/uniformtypeidentifiers) – Apple's documentation on UTIs
-- [Uniform Type Identifiers — a reintroduction](https://developer.apple.com/videos/play/tech-talks/10696) – a Tech Talk (video) clarifying a few things missing from the Apple docs
+- [Uniform Type Identifiers](https://developer.apple.com/documentation/uniformtypeidentifiers) – Apple's documentation on UTIs.
+- [Uniform Type Identifiers — a reintroduction](https://developer.apple.com/videos/play/tech-talks/10696) – a Tech Talk (video) clarifying a few things missing from the Apple docs.
 - [Wikipedia article on UTIs](https://en.wikipedia.org/wiki/Uniform_Type_Identifier)
 
 ## Some general information on declaring your own UTIs (file types)
