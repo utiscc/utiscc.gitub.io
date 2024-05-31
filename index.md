@@ -30,4 +30,5 @@ A few things picked up from the aforementioned Tech Talk:
 Like to contribute?
 
 Contact: tempelmann+utiscc@gmail.com
+
 Or submit a change to this page through github
