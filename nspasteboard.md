@@ -57,7 +57,7 @@ If your software shows a history of the pasteboard contents, displays the curren
 
 ## Discussion
 
-These pasteboard marker types and proposals for others are discussed on a Google Group discussion list. To request an invitation to the group, send an email to _TDB_ with subject: NSPasteboard.org.
+These pasteboard marker types and proposals for others are discussed on a [Google Group discussion list](https://groups.google.com/g/nspasteboard).
 
 ## List of Applications
 
@@ -93,3 +93,9 @@ If your application is not listed or your application is listed and you’d like
 * Updated June 19, 2020 with https URLs and List of Applications.
 * Duplicated May 31, 2024 from [https://nspasteboard.org/](https://nspasteboard.org/), now hosted on github pages under the utis.cc domain.
 
+
+## Contact
+
+tempelmann+utiscc@gmail.com
+
+Or submit a change to this page through github
